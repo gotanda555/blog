@@ -1,0 +1,122 @@
+.header{
+padding:10px;
+border-bottom: 1px solid #d8d8d8;
+background-color: green;
+position: fixed;
+top: 0;
+left: 0;
+right: 0;
+z-index: 5;
+}
+
+.header__bar{
+  position: relative;
+  width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0;
+    margin-bottom: 0;
+    max-width: 660px;
+}
+
+.tytle{
+color:white;
+float:left;
+}
+
+.link{
+  float: right;
+  text-align: right;
+}
+
+.post{
+    padding: 8px 20px;
+    font-size: 14px;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    border-radius: 3px;
+    display: inline-block;
+    margin-top:30px;
+}
+
+a{
+  text-decoration: none;
+  text-align:center;
+  color:lightblue;
+}
+
+.contents{
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 150px;
+  margin-bottom: 0;
+  max-width: 660px;
+  border: 2px solid #57c3e9;
+}
+
+.post__two{
+  color:black;
+}
+
+h3{
+  text-align: center;
+}
+
+input{
+  display:block;
+  width:300px;
+  height:40px;
+  margin: 0 auto;
+}
+
+textarea{
+  width:655px;
+  padding: 5px 0;
+}
+
+.btn{
+color: black;
+margin: 0 auto;
+display:table-cell;
+text-align: center;
+padding-left: 270px;
+}
+
+.new_user{
+  margin-top:80px;
+}
+
+label{
+  margin-left:380px;
+}
+
+.actions{
+  height:60px;
+}
+
+.teto{
+  border: 2px solid gray;
+  margin: 10px 0;
+}
+
+.tete{
+  color:red;
+}
+
+.woo{
+  border: 2px solid orange;
+  color:gray;
+  margin-left:2px;
+}
+
+.back{
+  border: 2px solid white;
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 150px;
+  margin-bottom: 0;
+  max-width: 660px;
+}

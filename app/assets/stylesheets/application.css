@@ -44,6 +44,7 @@ a{
   text-decoration: none;
   text-align:center;
   color:lightblue;
+  padding-left:380px;
 }
 
 .contents{
@@ -109,6 +110,7 @@ label{
   border: 2px solid orange;
   color:gray;
   margin-left:2px;
+  padding:0;
 }
 
 .back{
